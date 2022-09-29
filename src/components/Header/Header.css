@@ -1,0 +1,22 @@
+.container {
+  padding: 0rem 8rem;
+}
+.header {
+  background: #1c2b35;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header img {
+  width: 150px;
+  height: 50px;
+}
+.header a {
+  text-decoration: none;
+  color: white;
+  margin-left: 3rem;
+}
+.header a:hover {
+  color: orange;
+}
